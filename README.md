@@ -6,7 +6,7 @@ This project demonstrates a **fully automated CI/CD pipeline** for a simple Pyth
 
 ## 🚀 Project Overview
 
-- The Python script (`devops.py`) is containerized using Docker.
+- The Python script is containerized using Docker.
 - Jenkins automates the **build and deployment process**.
 - The Docker container runs the Python script on port 8080.
 
