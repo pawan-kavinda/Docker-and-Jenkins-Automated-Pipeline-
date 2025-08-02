@@ -12,7 +12,7 @@ This project demonstrates a **fully automated CI/CD pipeline** for a simple Pyth
 
 ---
 
-##🛠️ Technologies Used
+##🛠️ Technologies Used for system
 
 Python
 Docker
